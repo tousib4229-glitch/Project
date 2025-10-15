@@ -1,0 +1,4 @@
+-go to your GitHub login with your university email
+-make repository  named Tousib Ahammed Ridoy_portfolio
+-upload (Tousib Ahammed Ridoy_portfolio) folder in GitHub
+-change the details according to your .. for eg linkedin link
